@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Clash Verge
-Comment=Clash Verge Rev through Linux lifecycle guard
-Exec=/usr/local/bin/clash-verge-guarded %U
-Terminal=false
-Categories=Network;
-MimeType=x-scheme-handler/clash-verge;x-scheme-handler/clash;
-
