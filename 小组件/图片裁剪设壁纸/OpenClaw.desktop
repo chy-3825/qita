@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OpenClaw
+Name[zh_CN]=OpenClaw
+Comment=Open the OpenClaw Control UI
+Comment[zh_CN]=打开 OpenClaw 控制台
+Exec=/home/nhy/.openclaw/tools/node-v24.15.0/bin/node /home/nhy/.openclaw/lib/node_modules/openclaw/openclaw.mjs dashboard
+Icon=/home/nhy/.openclaw/lib/node_modules/openclaw/dist/control-ui/favicon.svg
+Terminal=false
+Categories=Utility;Development;
+StartupNotify=true
+Keywords=AI;Assistant;OpenClaw;
+
